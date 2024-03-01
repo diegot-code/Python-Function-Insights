@@ -1,0 +1,4 @@
+Functions_Clarification
+
+Parameters are variables which originate from outside of the function, whereas local variables are created inside of the function to hold temporary state.
+-Credit to "darkscott"
